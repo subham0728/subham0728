@@ -9,7 +9,7 @@ I enjoy building real-world projects, exploring new technologies, solving proble
 - 👯 **I’m looking to collaborate on:** Web Development, AI-powered applications, IoT projects, and innovative real-world solutions.
 - 🤔 **I’m looking for help with:** Building scalable full-stack applications and improving my software development skills.
 - 💬 **Ask me about:** C, C++, Python, JavaScript, React, SQL, APIs, Git/GitHub, AI, and IoT.
-- 📫 **How to reach me:** Add your email here
+- 📫 **How to reach me:** subhamyadav810255@gmail.com
 - ⚡ **Fun fact:** I learn best by building projects — if I don't know how something works, I'll build it, break it, and learn from it! 😄
 
 ### 🚀 Some of My Projects
