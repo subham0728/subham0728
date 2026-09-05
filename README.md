@@ -34,6 +34,15 @@ I enjoy building real-world projects, exploring new technologies, solving proble
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+## 🧠 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/subham2807?theme=dark&font=baloo)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/subham2807/)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=subham0728&theme=dark
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=subham0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=subham0728&theme=dark&hide_border=false)<br/>
