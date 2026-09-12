@@ -44,7 +44,7 @@ I enjoy building real-world projects, exploring new technologies, solving proble
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=subham0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=subham0728&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=subham0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+username=subham0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
