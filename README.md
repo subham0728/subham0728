@@ -40,9 +40,7 @@ I enjoy building real-world projects, exploring new technologies, solving proble
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/subham2807/)
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=subham0728&theme=dark
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=subham0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=subham0728&theme=dark&hide_border=false)<br/>
