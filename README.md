@@ -203,7 +203,6 @@ A responsive e-commerce interface built to practice layouts, navigation, UI comp
 
 </p>
 
-> The statistics above are fetched from the public LeetCode profile and may take some time to update.
 
 ---
 
