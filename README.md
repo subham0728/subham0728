@@ -217,13 +217,32 @@ A responsive e-commerce interface built to practice layouts, navigation, UI comp
 
 </p>
 
-# 📊 GitHub Stats:
+## 📈 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=anuska-ani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=anuska-ani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anuska-ani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.shion.dev/api?username=subham0728&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" 
+    width="49%"
+  />
+  <img 
+    src="https://streak-stats.demolab.com/?user=subham0728&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+    width="49%"
+  />
+</p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=subham0728&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" 
+    width="42%"
+  />
+</p>
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subham0728&theme=tokyonight" 
+    width="95%"
+  />
+</p>
 ---
 
 # 🐍 Contribution Activity
